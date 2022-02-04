@@ -1,0 +1,6 @@
+Dog;Ollie;3
+Cat;Chloe;4
+Cat;Whiskey;3
+Dog;Chocolate;5
+Cat;Cookie;2
+Dog;Bob;5
